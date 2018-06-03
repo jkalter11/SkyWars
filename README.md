@@ -103,12 +103,7 @@ Command | Description
 ###### Have you made a video? Contact me to put it here:exclamation:
 
 ---
-### Contacts
-
-- **Kik:** \_svile\_<br/>
-- **Telegram_Gruop:** :link: https://telegram.me/svile<br/>
-- **E-mail:** thesville@gmail.com<br/>
-
+#
 ###### _fell free to make pull requests and to contact me for any help_.
 
 
